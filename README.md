@@ -139,11 +139,6 @@ streamlit run streamlit_app.py
 
 ---
 
-## 🙋‍♂️ Author
-
-**Shreyansh Sahu**
-Big Data & ML Engineer | CDAC PG-DBDA
-📧 [sahushreyansh692@gmail.com](mailto:sahushreyansh692@gmail.com)
 
 ---
 
